@@ -1,0 +1,12 @@
+mongo:
+  ip: localhost
+  port: 27017
+  database: database
+  use-password: true
+  username: username
+  password: password
+redis:
+  ip: localhost
+  port: 6379
+  use-password: true
+  password: password
